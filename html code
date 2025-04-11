@@ -1,0 +1,52 @@
+<!Doctype html>
+<html>
+<head>
+    <title> My resume</title>
+    </head>
+    <body>
+<center><h1><u> My resume</u></h1></center>
+        <img src=""height="100",width="100">
+        <h2><u>personal details</u></h2>
+        <h4> Name: ARYAN SAMANi  </h4>
+        <h4> DOB:14/03/2005 </h4>
+        <h4> Gender:MALE </h4>
+        <hr>
+        <!-- coontact details stars-->
+        <h2><u>Contact details</u></h2>
+        <h4> Addres:SILVER OAK UNIVERSITY </h4>
+        <h4> Contact:2378991025 </h4>
+        <h4> Email id:silveroakuniversity@ gamil.com </h4>
+        <hr>
+        <h2><u> Career objective </u></h2>
+        <h4> I want to became a good developer in reknown company of india, As well as learn all the programing language.  </h4>
+        <hr>
+        <h2><u>Educational details </u></h2>
+        <table><border="2"></border>
+        <tr>
+            <th> Course </th>
+            <th> Passing year </th>
+            <th> Board </th>
+            <th> Percentage </th>
+            </tr>
+            <tr>
+                <td> SSC </td>
+                <td> 2020 </td>
+                <td> GBSC </td>
+                <td> 89% </td>
+                <tr>
+                </table>
+                <hr>
+        <h2><u> Skills </u></h2>
+    <u1>
+        <l1> C </l1>
+        <l1> C++ </l1>
+        <l1> </l1>
+        </u1>
+        <hr>
+        <h2><u> Hobbies and extra carricular, activities </u></h2>
+        <u1>
+            <l1> Playing Cricket, and online gamnig, </l1>
+            </u1>
+</body> 
+</html >       
+ 
